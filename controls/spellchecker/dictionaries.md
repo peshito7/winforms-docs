@@ -11,7 +11,7 @@ previous_url: spellchecker-dictionaries
 
 # Dictionaries
 
-**RadSpellChecker** comes with one predefined dictionary which checks the English language. In case you need a dictionary for another language, you check the [Dictinaries for RadSpellChecker](http://www.telerik.com/community/code-library/winforms/localization-providers/dictionaries-for-radspellchecker.aspx) article where our customers have provided their own implementation of dictionaries for the different languages.The following section demonstrates how you can load one of these dictionaries in your own project.     
+**RadSpellChecker** comes with one predefined dictionary which checks the English language. In case you need a dictionary for another language, you check the [Dictionaries for RadSpellChecker](http://www.telerik.com/community/code-library/winforms/localization-providers/dictionaries-for-radspellchecker.aspx) article where our customers have provided their own implementation of dictionaries for the different languages.The following section demonstrates how you can load one of these dictionaries in your own project.     
 
 ## Loading a custom dictionary
 
